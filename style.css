@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(193, 139, 224);
+}
+header{
+    background-color: rgb(252, 252, 252);
+}
+header{  
+background-color: rgba(221, 197, 241, 0.616);
+height: 45px;
+margin-left: 20px;
+margin-right: 20px;
+}
+ 
+header h3{
+ padding-left: 15px;
+color: rgb(255, 255, 255);
+text-align: center;
+font-size: 35px;
+}
+
+
+
+
+
