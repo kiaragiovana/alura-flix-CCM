@@ -1,21 +1,61 @@
 body{
     background-color: rgb(193, 139, 224);
-}
-header{
-    background-color: rgb(252, 252, 252);
+    color: black;
+    margin: 0%;
 }
 header{  
 background-color: rgba(221, 197, 241, 0.616);
+padding: 10px;
+border-bottom: 10px solid;
+font-size: 25px;
+text-decoration: kiara;
+display: flex;
+justify-content: space-between;
+align
 height: 45px;
 margin-left: 20px;
 margin-right: 20px;
 }
  
-header h3{
- padding-left: 15px;
-color: rgb(255, 255, 255);
-text-align: center;
-font-size: 35px;
+header h3 {
+font-family: "BBH Sans Bartle", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+    padding-left: 15px;
+    color: rgba(0, 0, 0, 0.658);
+    text-align: center;
+    font-size: 30px;
+
+    nav ul{
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+    }
+    nav ul li{
+        margin-left 20px;
+        font-size: 20px;
+    }
+    header nav ul li a{
+        color:blueviolet
+        text-decoration: none;
+        transition: color 0.5s;
+    }
+    header nav ul li a:hover{
+        color: bluergb{255, 3, 238};
+    }
+    
+    .foto{
+      display: flex;
+      justify-content: center;
+    }
+   .foto-perfil{
+    width: 130px;
+    height: 150px;
+    margin: 20px;
+border: 3px solid purple;
+border-radius: 8px;
 }
 
 
